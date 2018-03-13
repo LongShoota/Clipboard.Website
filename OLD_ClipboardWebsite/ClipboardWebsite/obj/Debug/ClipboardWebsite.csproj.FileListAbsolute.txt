@@ -1,0 +1,92 @@
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\ApplicationInsights.config
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\csc.exe
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\vbc.exe
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\VBCSCompiler.exe
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\ClipboardWebsite.dll.config
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\ClipboardWebsite.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\ClipboardWebsite.pdb
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.Web.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.ApplicationInsights.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Helpers.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Mvc.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Razor.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Deployment.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Razor.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.Web.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.ApplicationInsights.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Razor.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Deployment.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Razor.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Helpers.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Mvc.xml
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\obj\Debug\ClipboardWebsite.csprojResolveAssemblyReference.cache
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\obj\Debug\ClipboardWebsite.dll
+c:\users\longshoota\documents\visual studio 2015\Projects\ClipboardWebsite\ClipboardWebsite\obj\Debug\ClipboardWebsite.pdb
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\ApplicationInsights.config
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\csc.exe
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\vbc.exe
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\ClipboardWebsite.dll.config
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\ClipboardWebsite.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\ClipboardWebsite.pdb
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Helpers.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Mvc.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Razor.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Razor.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Razor.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Webpages.Razor.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Helpers.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\bin\System.Web.Mvc.xml
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\obj\Debug\ClipboardWebsite.csprojResolveAssemblyReference.cache
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\obj\Debug\ClipboardWebsite.dll
+C:\Users\LongShoota\Documents\git repo\Clipboard.Website\ClipboardWebsite\ClipboardWebsite\obj\Debug\ClipboardWebsite.pdb
