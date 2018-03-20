@@ -10,10 +10,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/ClipboardWebsite.dll">
-      <publishTime>03/20/2018 20:30:43</publishTime>
+      <publishTime>03/20/2018 20:44:43</publishTime>
     </File>
     <File Include="bin/ClipboardWebsite.pdb">
-      <publishTime>03/20/2018 20:30:43</publishTime>
+      <publishTime>03/20/2018 20:44:43</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>10/16/2017 15:14:32</publishTime>
@@ -230,6 +230,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Global.asax">
       <publishTime>03/13/2018 20:03:15</publishTime>
+    </File>
+    <File Include="Package.nuspec">
+      <publishTime>03/20/2018 20:42:15</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>03/13/2018 20:21:33</publishTime>
